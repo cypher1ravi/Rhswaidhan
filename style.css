@@ -1,0 +1,72 @@
+body {
+    /* background-color: #D3D3D3; */
+
+    background-color: rgb(244, 238, 230);
+    /* background-color: white; */
+
+}
+
+nav {
+    /* background-color: #e3f2fd;
+    background-color: rosybrown; */
+    background-color: #C0C2C9;
+}
+
+nav img {
+    width: 90;
+    height: 90px;
+
+}
+
+.nav-link {
+    color: black;
+    cursor: pointer;
+}
+
+.active {
+    color: crimson;
+}
+
+.navbar li :hover {
+    background-color: black;
+    color: crimson;
+    border-radius: 15px;
+}
+
+#alert-atten,
+#alert-main {
+    width: 40%;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+#alert-atten,
+#alert-main i {
+    font-size: 1.3rem;
+}
+
+.jum {
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+
+.gallery {
+    padding: 10px;
+
+}
+
+.gallery img {
+    width: 100%;
+}
+
+.img-fluid {
+    height: 150px;
+}
+
+footer {
+    background-color: #e3f2fd;
+    background-color: rosybrown;
+    /*margin-bottom: 0;*/
+}
